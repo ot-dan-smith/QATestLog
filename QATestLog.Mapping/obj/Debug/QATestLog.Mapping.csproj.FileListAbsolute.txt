@@ -1,0 +1,16 @@
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\QATestLog.Mapping.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\QATestLog.Mapping.pdb
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\Castle.Core.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\FluentNHibernate.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\Iesi.Collections.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\NHibernate.ByteCode.Castle.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\NHibernate.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\QATestLog.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\QATestLog.pdb
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\Castle.Core.xml
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\FluentNHibernate.pdb
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\Iesi.Collections.pdb
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\bin\Debug\NHibernate.ByteCode.Castle.xml
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\obj\Debug\ResolveAssemblyReference.cache
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\obj\Debug\QATestLog.Mapping.dll
+c:\Projects\dsmith\QATestLog\QATestLog.Mapping\obj\Debug\QATestLog.Mapping.pdb

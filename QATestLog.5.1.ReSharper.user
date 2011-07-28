@@ -1,0 +1,380 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:Project.cs" caret="628" fromTop="21" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:QATestDefinition.cs" caret="405" fromTop="13" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:ProductDefinition.cs" caret="401" fromTop="17" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:ProjectMap.cs" caret="509" fromTop="20" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:BuildMap.cs" caret="275" fromTop="11" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:ProductMap.cs" caret="271" fromTop="11" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:Product.cs" caret="493" fromTop="16" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:Build.cs" caret="653" fromTop="23" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:QATest.cs" caret="589" fromTop="21" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:QATestMap.cs" caret="318" fromTop="12" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:ProjectMappingTests.cs" caret="4466" fromTop="25" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:TestDataFactory.cs" caret="3295" fromTop="37" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="266" fromTop="14" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="833" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3824" fromTop="40" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:TestDataFactory.cs" caret="466" fromTop="13" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:TestDataFactory.cs" caret="3295" fromTop="37" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="41" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="3482" fromTop="26" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="41" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="43" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="42" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="47" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="3743" fromTop="27" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="3020" fromTop="25" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="2156" fromTop="23" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="40" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="40" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="499" fromTop="8" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="1702" fromTop="46" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="2252" fromTop="27" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="2724" fromTop="34" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="2713" fromTop="43" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3261" fromTop="34" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3824" fromTop="41" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3812" fromTop="41" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="1283" fromTop="13" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="1702" fromTop="30" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4688" fromTop="50" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3940" fromTop="20" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4591" fromTop="33" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4325" fromTop="19" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4604" fromTop="27" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3459" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="43" />
+      <Item value="Guid`0" priority="45" />
+      <Item value="prop" priority="10" />
+      <Item value="virtual" priority="26" />
+      <Item value="String`0" priority="8" />
+      <Item value="DateTime`0" priority="6" />
+      <Item value="string" priority="7" />
+      <Item value="List" priority="21" />
+      <Item value="Product`0" priority="13" />
+      <Item value="ProjectMap`0" priority="1" />
+      <Item value="IdentityGenerationStrategyBuilder" priority="0" />
+      <Item value="Id`1" priority="0" />
+      <Item value="Map`0" priority="8" />
+      <Item value="proj" priority="4" />
+      <Item value="HasMany`1" priority="0" />
+      <Item value="References`1" priority="1" />
+      <Item value="prod" priority="2" />
+      <Item value="Build`0" priority="11" />
+      <Item value="System" priority="0" />
+      <Item value="Test`0" priority="1" />
+      <Item value="MS" priority="0" />
+      <Item value="MsSqlConfiguration`0" priority="0" />
+      <Item value="c" priority="0" />
+      <Item value="ProductMap`0" priority="0" />
+      <Item value="new" priority="36" />
+      <Item value="ISessionFactory`0" priority="0" />
+      <Item value="SessionFactoryFactory`0" priority="0" />
+      <Item value="sessionFactory" priority="3" />
+      <Item value="var" priority="13" />
+      <Item value="QATest`0" priority="7" />
+      <Item value="config" priority="1" />
+      <Item value="return" priority="11" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="myTest" priority="1" />
+      <Item value="transaction" priority="1" />
+      <Item value="session" priority="13" />
+      <Item value="Product" priority="2" />
+      <Item value="Project`0" priority="21" />
+      <Item value="Project" priority="2" />
+      <Item value="Build" priority="1" />
+      <Item value="QATest" priority="2" />
+      <Item value="proj1" priority="0" />
+      <Item value="Id" priority="4" />
+      <Item value="id" priority="0" />
+      <Item value="name" priority="6" />
+      <Item value="Name" priority="4" />
+      <Item value="Description" priority="4" />
+      <Item value="description" priority="3" />
+      <Item value="CreatedOn" priority="0" />
+      <Item value="createdOn" priority="0" />
+      <Item value="newGuid" priority="4" />
+      <Item value="void" priority="6" />
+      <Item value="int" priority="15" />
+      <Item value="List&lt;Project&gt;" priority="0" />
+      <Item value="numberOfProjects" priority="3" />
+      <Item value="for" priority="10" />
+      <Item value="i" priority="21" />
+      <Item value="projectList" priority="15" />
+      <Item value="List&lt;Product&gt;" priority="4" />
+      <Item value="numberOfProducts" priority="2" />
+      <Item value="currentProject" priority="1" />
+      <Item value="productList" priority="1" />
+      <Item value="List&lt;Build&gt;" priority="2" />
+      <Item value="numberOfBuilds" priority="2" />
+      <Item value="buildList" priority="1" />
+      <Item value="List&lt;QATest&gt;" priority="2" />
+      <Item value="Int16`0" priority="0" />
+      <Item value="numberOfTests" priority="1" />
+      <Item value="testList" priority="1" />
+      <Item value="Status" priority="0" />
+      <Item value="status" priority="0" />
+      <Item value="Notes" priority="1" />
+      <Item value="PopulateTestBuildList`0" priority="1" />
+      <Item value="PopulateTestProjectList`0" priority="0" />
+      <Item value="p" priority="6" />
+      <Item value="PopulateTestProductList`0" priority="0" />
+      <Item value="in" priority="13" />
+      <Item value="foreach" priority="8" />
+      <Item value="pr" priority="0" />
+      <Item value="b" priority="4" />
+      <Item value="PopulateTestQATestList`0" priority="0" />
+      <Item value="TestDataFactory`0" priority="2" />
+      <Item value="TestDataFactory" priority="1" />
+      <Item value="ProductMasterListItem`0" priority="6" />
+      <Item value="newName" priority="0" />
+      <Item value="newDescription" priority="1" />
+      <Item value="Boolean`0" priority="0" />
+      <Item value="MasterProductListId" priority="0" />
+      <Item value="isActive" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="QATestMasterListItem`0" priority="3" />
+      <Item value="masterProductList" priority="3" />
+      <Item value="masterTestList" priority="3" />
+      <Item value="QATestMasterListItem" priority="0" />
+      <Item value="ProductMasterListItem" priority="0" />
+      <Item value="newProduct" priority="0" />
+      <Item value="productId" priority="2" />
+      <Item value="GenerateTestMasterProductList`0" priority="0" />
+      <Item value="GenerateTestMasterQATestList`0" priority="0" />
+      <Item value="product" priority="3" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="masterP" priority="1" />
+      <Item value="ProductListId" priority="0" />
+      <Item value="masterProductLId" priority="0" />
+      <Item value="pj" priority="4" />
+      <Item value="pd" priority="3" />
+      <Item value="masterQATestList" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="masterQATest" priority="4" />
+      <Item value="masterTestListID" priority="0" />
+      <Item value="TestProject" priority="0" />
+      <Item value="TestProduct" priority="0" />
+      <Item value="tdf" priority="0" />
+      <Item value="masterProductItem" priority="1" />
+      <Item value="ProductDefinition`0" priority="2" />
+      <Item value="testDataFac" priority="1" />
+      <Item value="productDefinitionList" priority="1" />
+      <Item value="qaTestDefinitionList" priority="1" />
+      <Item value="masterProductId" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="testBuild" priority="0" />
+      <Item value="testProduct" priority="1" />
+      <Item value="QATestDefinition`0" priority="0" />
+      <Item value="BuildId" priority="2" />
+      <Item value="t" priority="1" />
+      <Item value="using" priority="2" />
+      <Item value="QATestLog" priority="0" />
+      <Item value="from" priority="2" />
+      <Item value="NHibernate" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="Single`0" priority="0" />
+      <Item value="projects" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="IList" priority="2" />
+      <Item value="productName" priority="0" />
+      <Item value="Test" priority="1" />
+      <Item value="DataRetrieval`0" priority="2" />
+      <Item value="DataRetrieval" priority="0" />
+      <Item value="dr" priority="2" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="is" priority="0" />
+      <Item value="NotFiniteNumberException`0" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="result" priority="2" />
+      <Item value="Products" priority="1" />
+      <Item value="Tests" priority="0" />
+      <Item value="Builds" priority="0" />
+      <Item value="buildId" priority="0" />
+      <Item value="masterQATestItem" priority="0" />
+      <Item value="project" priority="2" />
+      <Item value="SetUp" priority="0" />
+      <Item value="TearDown" priority="0" />
+      <Item value="TestFixtureSetUp" priority="0" />
+      <Item value="targetQATestList" priority="2" />
+      <Item value="controlQATestList" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="_firstProject" priority="3" />
+      <Item value="_projectList" priority="0" />
+      <Item value="_firstBuild" priority="1" />
+      <Item value="_firstProduct" priority="2" />
+      <Item value="_firstQATest" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityPart">
+      <Item value="GeneratedBy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityGenerationStrategyBuilder`1">
+      <Item value="Assigned`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.Project">
+      <Item value="Description" priority="0" />
+      <Item value="CreatedOn" priority="2" />
+      <Item value="Products" priority="7" />
+      <Item value="Id" priority="6" />
+      <Item value="Name" priority="1" />
+      <Item value="Builds" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.Product">
+      <Item value="ProductListId" priority="1" />
+      <Item value="Builds" priority="5" />
+      <Item value="MasterProductListId" priority="2" />
+      <Item value="Id" priority="3" />
+      <Item value="Name" priority="1" />
+      <Item value="BuildId" priority="0" />
+      <Item value="Tests" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.Build">
+      <Item value="Tests" priority="5" />
+      <Item value="ProductId" priority="1" />
+      <Item value="Id" priority="2" />
+      <Item value="ProjectId" priority="2" />
+      <Item value="Name" priority="0" />
+      <Item value="Description" priority="1" />
+      <Item value="Products" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.Test">
+      <Item value="Status" priority="0" />
+      <Item value="Notes" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FluentNHibernate.Cfg.Db.MsSqlConfiguration">
+      <Item value="MsSql2008" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.Db.MsSqlConfiguration">
+      <Item value="ConnectionString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.Db.MsSqlConnectionStringBuilder">
+      <Item value="Database`0" priority="0" />
+      <Item value="Server`0" priority="0" />
+      <Item value="TrustedConnection`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.FluentMappingsContainer">
+      <Item value="AddFromAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.QATest">
+      <Item value="BuildId" priority="1" />
+      <Item value="ProductId" priority="3" />
+      <Item value="MasterListTestId" priority="0" />
+      <Item value="MasterTestListId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="16" />
+      <Item value="Empty" priority="2" />
+      <Item value="nguid" priority="0" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="7" />
+      <Item value="AddRange`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.ProductMasterListItem">
+      <Item value="Id" priority="2" />
+      <Item value="Name" priority="2" />
+      <Item value="Description" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.QATestMasterListItem">
+      <Item value="isActive" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="MasterProductListId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Save`0" priority="4" />
+      <Item value="Get`1" priority="1" />
+      <Item value="Query`1" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ITransaction">
+      <Item value="Commit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.UnitTests.TestDataFactory">
+      <Item value="GenerateTestMasterProductList`0" priority="1" />
+      <Item value="GenerateTestMasterQATestList`0" priority="0" />
+      <Item value="GenerateTestQATestDefinitionList`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.OneToManyPart`1">
+      <Item value="Cascade" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.CollectionCascadeExpression`1">
+      <Item value="All`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="1" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Fetch`2" priority="0" />
+      <Item value="Single`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Linq.INhFetchRequest`2">
+      <Item value="ToList`1" priority="0" />
+      <Item value="ThenFetchMany`3" priority="0" />
+      <Item value="ThenFetch`3" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.DataRetrieval">
+      <Item value="LoadProject`0" priority="0" />
+      <Item value="GetProduct`0" priority="1" />
+      <Item value="GetQATestsForBuild`0" priority="0" />
+      <Item value="GetProductsForBuild`0" priority="0" />
+      <Item value="GetBuildsForProject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QATestLog.QATestDefinition">
+      <Item value="isActive" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortTimeString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISessionFactory">
+      <Item value="IsClosed" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

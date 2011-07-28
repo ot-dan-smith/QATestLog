@@ -1,0 +1,16 @@
+c:\Projects\dsmith\QATestLog\QATestLog\obj\Debug\ResolveAssemblyReference.cache
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\QATestLog.dll
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\QATestLog.pdb
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\Castle.Core.dll
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\FluentNHibernate.dll
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\Iesi.Collections.dll
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\NHibernate.ByteCode.Castle.dll
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\NHibernate.dll
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\NHibernate.Linq.dll
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\Castle.Core.xml
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\FluentNHibernate.pdb
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\Iesi.Collections.pdb
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\NHibernate.ByteCode.Castle.xml
+c:\Projects\dsmith\QATestLog\QATestLog\bin\Debug\NHibernate.Linq.xml
+c:\Projects\dsmith\QATestLog\QATestLog\obj\Debug\QATestLog.dll
+c:\Projects\dsmith\QATestLog\QATestLog\obj\Debug\QATestLog.pdb

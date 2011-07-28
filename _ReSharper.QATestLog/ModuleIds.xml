@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="402A519C-CEFF-425F-9BCF-8A846B223F72" ModuleId="QATestLog" />
+  <Module PersistentId="4478CFCD-FD50-47C4-B5AD-F7577B015BB0" ModuleId="QATestLog.Mapping" />
+  <Module PersistentId="6AD6D008-D54B-4ACC-96E1-83BD4A40775A" ModuleId="QATestLog.UnitTests" />
+</Modules>
