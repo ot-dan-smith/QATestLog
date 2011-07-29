@@ -122,7 +122,7 @@ namespace QATestLog.UnitTests
 			var dr = new DataRetrieval();
 			var targetQATest = dr.GetQATest(_firstQATest.Id);
 			
-			Assert.AreEqual(targetQATest.Id, 
+			Assert.AreEqual(targetQATest.Id,
 							_firstQATest.Id);
 			Assert.AreEqual(targetQATest.Name, 
 							_firstQATest.Name);
@@ -140,16 +140,20 @@ namespace QATestLog.UnitTests
 			var dr = new DataRetrieval();
 			var targetQATestList = dr.GetQATestsForProduct(_firstProduct.Id);
 
-			Assert.AreEqual(targetQATestList.Count, _firstProduct.Tests.Count);		
+			Assert.AreEqual(targetQATestList.Count, 
+							_firstProduct.Tests.Count);		
 		}
+
 		[Test]
 		public void GetProductsForBuildShouldReturnAllOfTheProductsForASpecificBuild()
 		{
 			var dr = new DataRetrieval();
 			var targetQATestList = dr.GetProductsForBuild(_firstBuild.Id);
 
-			Assert.AreEqual(targetQATestList.Count, _firstProduct.Tests.Count);
+			Assert.AreEqual(targetQATestList.Count, 
+							_firstProduct.Tests.Count);
 		}
+
 		[Test]
 		public void GetBuildsForProjectShouldReturnAllOfTheBuildsForASpecificProject()
 		{

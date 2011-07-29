@@ -8,52 +8,56 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:Project.cs" caret="628" fromTop="21" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:QATestDefinition.cs" caret="405" fromTop="13" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:ProductDefinition.cs" caret="401" fromTop="17" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:Project.cs" caret="628" fromTop="21" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:ProductDefinition.cs" caret="401" fromTop="17" />
       <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:ProjectMap.cs" caret="509" fromTop="20" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:BuildMap.cs" caret="275" fromTop="11" />
       <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:ProductMap.cs" caret="271" fromTop="11" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:Product.cs" caret="493" fromTop="16" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:Build.cs" caret="653" fromTop="23" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:QATest.cs" caret="589" fromTop="21" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:QATestMap.cs" caret="318" fromTop="12" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:Product.cs" caret="493" fromTop="16" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:Build.cs" caret="653" fromTop="23" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:QATest.cs" caret="589" fromTop="21" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:ProjectMappingTests.cs" caret="4466" fromTop="25" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:TestDataFactory.cs" caret="3295" fromTop="37" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="266" fromTop="14" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="833" fromTop="18" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:BuildMap.cs" caret="325" fromTop="13" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:QATestMap.cs" caret="318" fromTop="12" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:QATestDefinition.cs" caret="405" fromTop="13" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="623" fromTop="23" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Mapping/f:QATestDefinitionMap.cs" caret="154" fromTop="6" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:DataRetrieval.cs" caret="3878" fromTop="41" />
+      <File id="57936D3B-5935-44FD-B3F5-DE7665157CC4/d:Controllers/f:HomeController.cs" caret="332" fromTop="17" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:IProjectRepository.cs" caret="352" fromTop="13" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:Repository.cs" caret="363" fromTop="17" />
     </RecentFiles>
     <RecentEdits>
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3824" fromTop="40" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:TestDataFactory.cs" caret="466" fromTop="13" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:TestDataFactory.cs" caret="3295" fromTop="37" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="41" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="3482" fromTop="26" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="41" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="43" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="42" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="47" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="3743" fromTop="27" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="3020" fromTop="25" />
-      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/f:DataRetrieval.cs" caret="2156" fromTop="23" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="40" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4127" fromTop="40" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4135" fromTop="40" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="499" fromTop="8" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="1702" fromTop="46" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="2252" fromTop="27" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="2724" fromTop="34" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="2713" fromTop="43" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3261" fromTop="34" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3824" fromTop="41" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3812" fromTop="41" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3823" fromTop="41" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3811" fromTop="41" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="1283" fromTop="13" />
       <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="1702" fromTop="30" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4688" fromTop="50" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3940" fromTop="20" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4591" fromTop="33" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4325" fromTop="19" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4604" fromTop="27" />
-      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3459" fromTop="27" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4709" fromTop="50" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3939" fromTop="20" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4612" fromTop="33" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4625" fromTop="27" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:DataRetrieval.cs" caret="68" fromTop="2" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:IProjectRepository.cs" caret="350" fromTop="14" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:IProjectRepository.cs" caret="317" fromTop="14" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:IProjectRepository.cs" caret="48" fromTop="1" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4106" fromTop="26" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="3505" fromTop="8" />
+      <File id="6AD6D008-D54B-4ACC-96E1-83BD4A40775A/f:DataRetrievalTests.cs" caret="4396" fromTop="36" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Domain/f:DataRetrieval.cs" caret="3879" fromTop="23" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:IProjectRepository.cs" caret="354" fromTop="14" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:Repository.cs" caret="361" fromTop="108" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:Repository.cs" caret="361" fromTop="12" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:Repository.cs" caret="1800" fromTop="56" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:Repository.cs" caret="506" fromTop="21" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:Repository.cs" caret="361" fromTop="21" />
+      <File id="402A519C-CEFF-425F-9BCF-8A846B223F72/d:Repository/f:Repository.cs" caret="425" fromTop="18" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -69,8 +73,8 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="43" />
-      <Item value="Guid`0" priority="45" />
+      <Item value="public" priority="44" />
+      <Item value="Guid`0" priority="46" />
       <Item value="prop" priority="10" />
       <Item value="virtual" priority="26" />
       <Item value="String`0" priority="8" />
@@ -232,6 +236,8 @@
       <Item value="_firstBuild" priority="1" />
       <Item value="_firstProduct" priority="2" />
       <Item value="_firstQATest" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="T`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityPart">
       <Item value="GeneratedBy" priority="0" />

@@ -51,6 +51,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Services" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,8 +59,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Build.cs" />
-    <Compile Include="DataRetrieval.cs" />
+    <Compile Include="Domain\Build.cs" />
+    <Compile Include="Domain\DataRetrieval.cs" />
     <Compile Include="Mapping\BuildMap.cs" />
     <Compile Include="Mapping\ProductDefinitionMap.cs" />
     <Compile Include="Mapping\ProductMap.cs" />
@@ -67,12 +68,15 @@
     <Compile Include="Mapping\QATestDefinitionMap.cs" />
     <Compile Include="Mapping\QATestMap.cs" />
     <Compile Include="Mapping\SessionFactoryFactory.cs" />
-    <Compile Include="QATestDefinition.cs" />
-    <Compile Include="Product.cs" />
-    <Compile Include="ProductDefinition.cs" />
-    <Compile Include="Project.cs" />
+    <Compile Include="Domain\QATestDefinition.cs" />
+    <Compile Include="Domain\Product.cs" />
+    <Compile Include="Domain\ProductDefinition.cs" />
+    <Compile Include="Domain\Project.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QATest.cs" />
+    <Compile Include="Domain\QATest.cs" />
+    <Compile Include="Repository\IProjectRepository.cs" />
+    <Compile Include="Repository\Repository.cs" />
+    <Compile Include="Repository\UnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

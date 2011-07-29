@@ -18,3 +18,5 @@ c:\Projects\dsmith\QATestLog\QATestLog.UnitTests\bin\Debug\NHibernate.ByteCode.C
 c:\Projects\dsmith\QATestLog\QATestLog.UnitTests\bin\Debug\nunit.framework.xml
 c:\Projects\dsmith\QATestLog\QATestLog.UnitTests\obj\Debug\QATestLog.UnitTests.dll
 c:\Projects\dsmith\QATestLog\QATestLog.UnitTests\obj\Debug\QATestLog.UnitTests.pdb
+c:\Projects\dsmith\QATestLog\QATestLog.UnitTests\bin\Debug\NHibernate.Linq.dll
+c:\Projects\dsmith\QATestLog\QATestLog.UnitTests\bin\Debug\NHibernate.Linq.xml
